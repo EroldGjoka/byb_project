@@ -1,13 +1,22 @@
-###### Part 2: Practical Task 1
+# 📑 Part 2: Practical Task 1
 
-*Create our first repository. Make changes to your file and make a commit. Push your commit on GitHub.*
+Create our first repository. Make changes to your file and make a commit. Push your commit on GitHub.
+
 
 
 __Important Aliases__
-*I create my own aliases "shortcuts". As I was experimenting with Git I found out about aliases and now I use some of them.*
->git config --global alias.s "status"
+
+
+I create my own aliases "shortcuts". While experimenting with Git, I learned about aliases and now use some of them.
+
+
+<git config --global alias.s "status">
+
+
 __git s__
->git config --global alias.cm "commit -m"
+
+
+<git config --global alias.cm "commit -m">
 __git cm__
 >git config --global alias.conf "config --global"
 __git conf__
