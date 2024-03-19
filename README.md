@@ -17,5 +17,7 @@ I create my own aliases "shortcuts". While experimenting with Git, I learned abo
 - **git conf**: <git config --global alias.conf "config --global">
 
 - **git lag**:<git config --global alias.lag "log --all --graph">
+
+- **My Profile** `https://github.com/EroldGjoka`
 <img width="605" alt="Screenshot 2024-03-18 at 23 54 40" src="https://github.com/MrBuck34/byb_project/assets/162522371/1bad7e62-3342-43e7-a8f5-bb1874462d94">
 <img width="802" alt="Screenshot 2024-03-18 at 23 55 21" src="https://github.com/MrBuck34/byb_project/assets/162522371/3bfea0a3-1466-475d-9f16-110ef59527cb">
